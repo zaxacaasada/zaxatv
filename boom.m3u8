@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+https://mvtv.co.th/play/play_mvtv.php?no=153&channel=Boomerang
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:B4:0C:A1&stream=1776248&extension=m3u8
