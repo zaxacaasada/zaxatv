@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1776142
+https://live-us1.thaimomo.com/live-as/chpptv-1/playlist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1776141
+https://live-us1.thaimomo.com/live-as/chpptv-2/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+https://live-us1.thaimomo.com/live-as/chpptv-3/playlist.m3u8
