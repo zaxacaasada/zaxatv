@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2496000
+#EXT-X-STREAM-INF:BANDWIDTH=1496000
 https://live-us1.thaimomo.com/live-as/chpptv-1/playlist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1996000
 https://live-us1.thaimomo.com/live-as/chpptv-2/playlist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1496000
+#EXT-X-STREAM-INF:BANDWIDTH=2496000
 https://live-us1.thaimomo.com/live-as/chpptv-3/playlist.m3u8
